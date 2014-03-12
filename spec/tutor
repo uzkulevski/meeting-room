@@ -1,6 +1,11 @@
 = Pendahuluan =
 
+# Install git untuk windows
+* git -> http://git-scm.com/download/win
+* git-gui -> http://windows.github.com/
+
 # Buat akun github
+
 # Fork Repositori pada alamat berikut:
 https://github.com/brain90/meeting-room
 
